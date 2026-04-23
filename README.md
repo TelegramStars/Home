@@ -1,5 +1,5 @@
 # Home
-
+<img width="1042" height="1050" alt="Image" src="https://github.com/user-attachments/assets/d610d551-4a9b-4bac-a55a-517f48249513" />
 # 🐙 GitHub Home Button Dashboard
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/YOUR_USERNAME/YOUR_REPO?color=black&style=for-the-badge)
